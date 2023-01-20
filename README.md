@@ -28,5 +28,6 @@ $ docker buildx build --platform linux/arm64 -t <repo>/git-sync:0.0.1-arm .
 ```
 
 ----
-
+## See usage on [Dockerhub](https://hub.docker.com/r/openweb/git-sync)
+## See usage on [Github](https://github.com/openweb-nl/git-sync#usage)
 ## See on [Dockerhub](https://hub.docker.com/r/cdaraujo/git-sync)
